@@ -1,5 +1,6 @@
 .container{
     background-color: #610909;
+    border-radius: 20px;
     
 }
 .Details{
@@ -14,4 +15,16 @@
     margin-top: 20px;
     padding: 20px;
     
+}
+.section2{
+    background-color: #655609 ;
+   
+}
+h2{
+    text-align: center;
+    background-color: #18A33F;
+    width: 80%;
+    margin: 20px;
+    margin-right: 20px;
+   color: #B52C96;
 }
