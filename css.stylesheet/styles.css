@@ -1,0 +1,17 @@
+.container{
+    background-color: #610909;
+    
+}
+.Details{
+    background-color: #098383;
+    float: right;
+    border-radius: 20px;
+    width: 50%;
+    margin: 20px;
+    text-align: center;
+}
+img{
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #2DAD9E;
+}
