@@ -1,5 +1,5 @@
 .container{
-    background-color: #610909;
+    background-color: #655609;
     border-radius: 20px;
     
 }
@@ -10,10 +10,13 @@
     width: 50%;
     margin: 20px;
     text-align: center;
+    padding: 20px;
 }
 .fig1{
     margin-top: 20px;
     padding: 20px;
+    border-radius: 10px;
+    background-color: #098383;
     
     
 }
@@ -28,6 +31,7 @@ h2{
     margin: 20px;
     margin-right: 20px;
    color: #B52C96;
+   border-radius: 10px;
 }
 ul{
     background-color: #c46565;
@@ -35,7 +39,38 @@ ul{
     margin: 20px;
     padding: 10px;
     list-style: none;
+    border-radius: 10px;
 }
-.section2>second{
-    float: right;
+.section2{
+    /* float: right; */
+    
 }
+.second{
+    /* display: flex;
+    flex-direction: row; */
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    font-size: larger;
+    padding: 10px;
+}
+h3{
+    background-color: #37A11D;
+    text-align: center;
+    width: 80%;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.about{
+    background-color: #1B18A7;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+
+}
+
+    
+
