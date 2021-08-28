@@ -36,3 +36,6 @@ ul{
     padding: 10px;
     list-style: none;
 }
+.section2>second{
+    float: right;
+}
