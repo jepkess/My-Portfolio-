@@ -5,7 +5,7 @@ VINCENT KIPKIRUI
 ## Descriptions
 This project describes my portfolio-landing page.
 ## landing-page
-https://www.figma.com/file/yUwqK21Oug0DiNdGgCQb5M/Untitled?node-id=0%3A1
+[live](https://www.figma.com/file/yUwqK21Oug0DiNdGgCQb5M/Untitled?node-id=0%3A1)
 ## Settup
 on the terminal
 1. create a folder and git init it.
@@ -22,4 +22,5 @@ on the terminal
 ## Live Demo
 
 ## License
+This project is under [mit]
 
