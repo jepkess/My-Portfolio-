@@ -20,7 +20,7 @@ on the terminal
 2. CSS 
 3. Git
 ## Live Demo
-view[live](https://jepkess.github.io/My-Portfolio-/)
+view [live](https://jepkess.github.io/My-Portfolio-/)
 
 ## License
 This project is under [MIT](LICENCE.md)
