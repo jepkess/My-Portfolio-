@@ -22,5 +22,5 @@ on the terminal
 ## Live Demo
 
 ## License
-This project is under [mit]
+This project is under [MIT](LICENCE.md)
 
